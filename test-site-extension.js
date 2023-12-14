@@ -29,7 +29,7 @@
     }
 
     // Expose the library to the global object (e.g., window in the browser)
-    global.kittiyfier = TheKittyfierApp();
+    global.kittyfier = TheKittyfierApp();
 
 }(this));
 
